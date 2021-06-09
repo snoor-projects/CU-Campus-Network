@@ -19,5 +19,4 @@ The video portfolio attached displays the various concepts and implementation us
 driveId: 17BRTzqIst3FMfrjo2Sk9fW2jzFtckwyJ/preview
 --->
 
-{% include googleDrivePlayer.html id=page.17BRTzqIst3FMfrjo2Sk9fW2jzFtckwyJ/preview %}
 
