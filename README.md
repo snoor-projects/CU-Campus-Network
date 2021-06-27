@@ -13,10 +13,4 @@ The project covers the
 - VLAN(Router on a stick)
 - Internetworking across the campus  
 
-The video portfolio attached displays the various concepts and implementation used in the project
-
-<!---
-driveId: 17BRTzqIst3FMfrjo2Sk9fW2jzFtckwyJ/preview
---->
-
-
+The video portfolio: [Link to video](https://drive.google.com/file/d/17BRTzqIst3FMfrjo2Sk9fW2jzFtckwyJ/preview), displays the various concepts and implementation used in the project. 
